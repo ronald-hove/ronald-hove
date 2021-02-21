@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-hove&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="ronald-hove's github stats"></a>
+  <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-hove&layout=default&hide_border=true&show_icons=true&count_private=true" alt="ronald-hove's github stats"></a>
 </p>
 
 

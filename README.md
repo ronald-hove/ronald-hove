@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [ion-custom-form-builder](https://github.com/ronald-hove/ion-custom-form-builder)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) & [React](https://reactjs.org/)
 - 👯 I’m looking to collaborate on [ion-custom-form-builder](https://github.com/ronald-hove/ion-custom-form-builder)
-- 💬 Ask me about anything on chat [here](https://ronald-hove.github.io/)
+- 💬 Ask me about anything [here](https://ronald-hove.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronald-hove/)
 
 **Technologies I've worked with:**  

@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-<div class="row">
-  
-  <div class="col-6">
-    <p align="center">
-      <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api?username=ronald-hove&count_private=true&hide_border=true&show_icons=true"         alt="ronald-hove's github stats"></a>
-    </p>
-  </div>
-  
-  <div class="col-6">
-  <p align="center">
-    <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-             hove&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="ronald-hove's github stats"></a>
-  </p>
-  </div>
 
-</div>
 
+<p align="center">
+  <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api?username=ronald-hove&count_private=true&hide_border=true&show_icons=true"        alt="ronald-hove's github stats"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-hove&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="ronald-hove's github stats"></a>
+</p>
 
 
 

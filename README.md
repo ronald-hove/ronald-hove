@@ -6,6 +6,6 @@
 - 💬 Ask me about anything on chat [here](https://ronald-hove.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronald-hove/)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api?username=ronald-hove&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="ronald-hove's github stats"></a>
 </p>

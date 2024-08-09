@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Ronald, I build full stack web and mobile apps. ###
+### Hi there 👋, I'm Ronald, I build full stack web and mobile apps. ###
 
 <!-- - 🔭 I’m currently working on [ion-custom-form-builder](https://github.com/ronald-hove/ion-custom-form-builder) -->
 <!-- - 🌱 I’m currently learning [Flutter](https://flutter.dev/) & [React](https://reactjs.org/)

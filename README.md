@@ -6,7 +6,7 @@
 - 💬 Check out my blog posts on [Software Development Concepts](https://www.lavalamp.biz/author/ron/) | [dev.to](https://dev.to/ronaldhove) | [R. O. N ™](https://ronald-hove.github.io/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronald-hove/)
 
-**Technologies I've worked with:**  
+<!-- **Technologies I've worked with:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
@@ -22,6 +22,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code> 
+
+-->
 
 <!-- <p align="left">
   <a href="https://github.com/ronald-hove"><img src="https://github-readme-stats.vercel.app/api?username=ronald-hove&count_private=true&hide_border=true&show_icons=true&theme=dark" alt="ronald-hove's github stats"></a>

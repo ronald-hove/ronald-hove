@@ -6,8 +6,10 @@
 <!-- - 🔭 I’m currently working on [ion-custom-form-builder](https://github.com/ronald-hove/ion-custom-form-builder) -->
 <!-- - 🌱 I’m currently learning [Flutter](https://flutter.dev/) & [React](https://reactjs.org/)
 - 👯 I’m looking to collaborate on [ion-custom-form-builder](https://github.com/ronald-hove/ion-custom-form-builder) -->
-- 💬 Check out my blog posts in [The Refactorate newsletter](https://www.linkedin.com/newsletters/the-refactorate-7242923639715622912/) | on my website [R. O. N - Media](https://ronald-hove.github.io/)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronald-hove/) | Email: innovate@ronmediagroup.studio
+- 💬 Check out my blog posts in [The Refactorate newsletter](https://www.linkedin.com/newsletters/the-refactorate-7242923639715622912/) & on my website [R. O. N - Media](https://ronald-hove.github.io/)
+- 📫 How to reach me: \
+&#x221F; [LinkedIn](https://www.linkedin.com/in/ronald-hove/) \
+&#x221F; innovate@ronmediagroup.studio
 
 <!-- **Technologies I've worked with:**  
 
